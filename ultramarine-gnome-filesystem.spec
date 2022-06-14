@@ -1,5 +1,5 @@
 Name:           ultramarine-gnome-filesystem
-Version:        0.1.1
+Version:        0.1.2
 Release:        1%{?dist}
 Summary:        GNOME settings for Ultramarine Linux
 
